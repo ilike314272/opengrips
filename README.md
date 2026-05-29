@@ -30,10 +30,10 @@ OpenGriPS operates as a distributed, multi-tiered computational cockpit. The arc
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      OPENGRIPS CONTROL PLANE (GUI/API)                 │
 │   ┌───────────────┐ ┌────────────────────────────────────────────────┐ │
-│   │    Projects   │ │ ▶ Launch Project Workspace (JupyterLab)        │ │
-│   │   Data Feeds  │ │ ⚡ Topology: 4 Multi-GPU Compute Nodes Active  │ │
+│   │    Projects   │ │   Launch Project Workspace (JupyterLab)        │ │
+│   │   Data Feeds  │ │    Topology: 4 Multi-GPU Compute Nodes Active  │ │
 │   │    Explorer   │ ├────────────────────────────────────────────────┤ │
-│   │   Settings    │ │ 🤖 LLM Data Insight Engine                     │ │
+│   │   Settings    │ │    LLM Data Insight Engine                     │ │
 │   └───────────────┘ │ "Analyze anomalous phase metrics during storm" │ │
 │                     │ ↳ [DuckDB Vector SQL Engine] -> Synthesis Text │ │
 │                     └────────────────────────────────────────────────┘ │
