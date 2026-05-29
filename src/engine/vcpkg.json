@@ -1,0 +1,10 @@
+{
+  "name": "opengrips",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "pybind11",            
+    "protobuf",          
+    "eigen3",
+		"gtest"                
+  ]
+}
